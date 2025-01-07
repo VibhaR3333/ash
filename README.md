@@ -5,7 +5,7 @@
 
 - *Installing Da Vinci Resolve 19*
 
-[]([url=https://postimages.org/][img]https://i.postimg.cc/H8VB3KFf/1.jpg[/img][/url])
+![1](https://github.com/user-attachments/assets/06400090-4cf8-4505-b228-ac03aaf3a2db)
 
 [DaVinci Resolve Link](https://www.blackmagicdesign.com/event/davinciresolvedownload)
 
@@ -19,7 +19,7 @@ Upon launching the application, I found myself in the project manager. I created
 - Organizing Clips: The Media Page lets you create "Bins" which seem like folders for grouping your clips. This looks helpful for keeping my project organized, especially when working with lots of footage. I mainly used 3 bins for my edit (Audio, Video, Composite)
 - Syncing Audio & Video: The Media Page has some features for syncing audio and video clips that aren't perfectly aligned, which was very useful for me when I used multicam editing for my edit page task.
 
-![alt text](i/2.jpg)
+![2](https://github.com/user-attachments/assets/4faab6c0-69d1-45ce-8980-84174ea3777c)
 
 - *Task: Edit page*
 
@@ -27,7 +27,7 @@ For this task I went in YouTube to find the twixter clip to edit my video [Clip 
 
 This is what the edit page looked like:
 
-![alt text](i/3.jpg)
+![3](https://github.com/user-attachments/assets/c050fe44-ff7f-4b91-94c1-f9aef832414e)
 
 The raw footage:
 
@@ -39,8 +39,7 @@ Here is the [Final result](https://www.instagram.com/p/DDcR36ySIrw/)
 
 I used the same footage as for task one and the transitions were added though cut page. As there were very few preset transition used it the video.
 
-
-![alt text](i/4.jpg)
+![4](https://github.com/user-attachments/assets/e0cfa93a-838b-4dc3-96c3-fb99f1078b64)
 
 The raw footage:
 
@@ -52,8 +51,7 @@ Here is the [Final result](https://www.instagram.com/p/DDcR36ySIrw/).
 
 I proceeded to render the final product using the software's Deliver Page. This rendering process prepares the video for export by ensuring it adheres to specific technical specifications, such as resolution and file size, suitable for online platforms.
 
-![alt text](i/5.jpg)
-
+![5](https://github.com/user-attachments/assets/d4cbabc7-3df5-42c8-8d4c-1068365fdb57)
 
 Once rendered, I exported my edit and transferred it to my mobile device. I then uploaded the video directly to my Instagram account.
 
@@ -63,4 +61,4 @@ Once rendered, I exported my edit and transferred it to my mobile device. I then
 
 DaVinci Resolve 19 integrates Fusion, a powerful node-based compositing toolset for creating visual effects and motion graphics. Fusion allows artists to perform tasks such as keying, tracking, paint, rotoscoping, and 3D compositing within a true 3D workspace.
 
-![alt text](i/7.jpg)
+![7](https://github.com/user-attachments/assets/338f9142-ad9c-4a79-9b2c-cb42632ccb1f)
