@@ -57,7 +57,7 @@ I proceeded to render the final product using the software's Deliver Page. This 
 
 Once rendered, I exported my edit and transferred it to my mobile device. I then uploaded the video directly to my Instagram account.
 
-![alt text](i/6.jpg)
+![6](https://github.com/user-attachments/assets/8c71ff90-155a-43aa-a449-1d3c52fdeef7)
 
 - *Fusion Page*
 
